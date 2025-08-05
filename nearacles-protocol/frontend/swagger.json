@@ -1,0 +1,10 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "Nearacles API",
+        "description": "API for Nearacles",
+        "version": "1.0.0"
+    },
+    "paths": {},
+    "definitions": {}
+}
